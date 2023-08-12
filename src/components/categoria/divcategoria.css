@@ -5,6 +5,7 @@
     background-color: white;
     border: 1px solid black;
     display: inline;
+    z-index: 999;
   }
 #ulComponentcategoria {
     list-style: none;
